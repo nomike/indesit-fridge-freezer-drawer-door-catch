@@ -1,0 +1,30 @@
+{
+  "thing": {
+    "name": "Indesit fridge freezer drawer door catch",
+    "category": "Other",
+    "tags": [
+      "parametric",
+      "openscad",
+      "indesit",
+      "fridge",
+      "freezer",
+      "home improvement"
+    ],
+    "is_wip": false,
+    "license": "bsd",
+    "id": 6563185
+  },
+  "files": {
+    "indesit-fridge-freeer-drawer-door-catch.scad": {
+      "id": 14284472,
+      "name": "indesit-fridge-freeer-drawer-door-catch.scad",
+      "url": "https://www.thingiverse.com/download:14284472"
+    },
+    "output/indesit-fridge-freeer-drawer-door-catch.stl": {
+      "id": 14284473,
+      "name": "indesit-fridge-freeer-drawer-door-catch.stl",
+      "url": "https://www.thingiverse.com/download:14284473"
+    }
+  },
+  "images": {}
+}
