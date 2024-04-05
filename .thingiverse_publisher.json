@@ -26,5 +26,11 @@
       "url": "https://www.thingiverse.com/download:14284473"
     }
   },
-  "images": {}
+  "images": {
+    "photos/thingy.jpg": {
+      "id": 20959582,
+      "name": "84d25fb1-fd4a-4e52-ad6e-19e4a0b9f868.jpg",
+      "url": "https://www.thingiverse.com/image:20959582"
+    }
+  }
 }
