@@ -8,4 +8,4 @@ I used some strong narrow double sided sticky tape (the foamy TESA brand with ye
 
 #### GitHub
 
-<https://github.com/nomike/indesit-fridge-freezer-drawer-door-catch-thingy>
+<https://github.com/nomike/indesit-fridge-freezer-drawer-door-catch>
